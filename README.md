@@ -1,5 +1,5 @@
 # 🧠 Deteksi Tumor Otak menggunakan Vision Transformer (ViT)
-# 🧠 Brain Tumor Detection using Vision Transformer (ViT) 
+by Aliefian Ramadhan / 22081010171
 
 A deep learning project for classifying **brain tumor MRI images** into **tumor** and **non-tumor** categories using the **Vision Transformer (ViT)** architecture.  
 This repository is part of an undergraduate research project at **Universitas Pembangunan Nasional "Veteran" Jawa Timur (UPN Jatim)**.
