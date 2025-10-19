@@ -1,4 +1,5 @@
-# 🧠 Brain Tumor Detection using Vision Transformer (ViT)
+# 🧠 Deteksi Tumor Otak menggunakan Vision Transformer (ViT)
+# 🧠 Brain Tumor Detection using Vision Transformer (ViT) 
 
 A deep learning project for classifying **brain tumor MRI images** into **tumor** and **non-tumor** categories using the **Vision Transformer (ViT)** architecture.  
 This repository is part of an undergraduate research project at **Universitas Pembangunan Nasional "Veteran" Jawa Timur (UPN Jatim)**.
@@ -26,9 +27,3 @@ and compares its performance against conventional **CNN-based architectures**.
 - To **visualize interpretability** using attention maps from the Transformer model.
 
 ---
-
-## ⚙️ Methodology
-
-### 1. Dataset
-- Source: [Brain MRI Dataset – Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
-- Structure:
